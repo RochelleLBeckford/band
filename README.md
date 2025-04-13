@@ -1,4 +1,3 @@
-# band
 # Practice: Create a webpage about my favorite K-Pop Band with HTML
 
 ### Practice working with HTML
